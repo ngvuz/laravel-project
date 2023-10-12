@@ -1,0 +1,143 @@
+ .u-section-1 {
+  background-image: url("../images/banner11.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 707px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 629px;
+  min-height: 503px;
+  height: auto;
+  margin: 63px 11px 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0 29px 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  font-family: SVN-Athene;
+  margin: 15px 61px 0 86px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 383px;
+  width: 543px;
+  margin: 14px 0 0 68px;
+}
+
+.u-section-1 .u-input-1 {
+  font-size: 1.125rem;
+  font-family: SVN-Athene;
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-2 {
+  font-size: 1.125rem;
+  font-family: SVN-Athene;
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-3 {
+  font-size: 1.125rem;
+  font-family: SVN-Athene;
+  font-weight: 700;
+}
+
+.u-section-1 .u-input-4 {
+  font-size: 1.125rem;
+  font-family: SVN-Athene;
+  font-weight: 700;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 1.5rem;
+  font-family: SVN-Athene;
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 499px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -537px;
+    height: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 197px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 370px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 382px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 254px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 150px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 287px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 148px;
+    margin-left: 200px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 0;
+    width: 530px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 181px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 93px;
+    margin-left: 123px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 330px;
+  }
+}@font-face {
+  font-family: 'SVN-Athene';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SVN-Athene.otf);
+}
